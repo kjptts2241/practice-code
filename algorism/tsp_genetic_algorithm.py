@@ -5,7 +5,7 @@ import random
 import copy
 
 
-# 각 점간의 거기를 계산
+# 각 점간의 거리를 계산
 def calculate_distance(node1, node2):
     x1, y1 = node1
     x2, y2 = node2
